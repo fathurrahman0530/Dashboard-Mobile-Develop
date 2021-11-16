@@ -3,11 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Asus_Rog/Documents/Android Studio/DashboardPractice/app/src/main/res/drawable/banner_background.xml" value="0.5" />
         <entry key="..\:/Users/Asus_Rog/Documents/Android Studio/DashboardPractice/app/src/main/res/drawable/blue_background.xml" value="0.37864583333333335" />
         <entry key="..\:/Users/Asus_Rog/Documents/Android Studio/DashboardPractice/app/src/main/res/drawable/green_background.xml" value="0.37864583333333335" />
         <entry key="..\:/Users/Asus_Rog/Documents/Android Studio/DashboardPractice/app/src/main/res/drawable/orange_background.xml" value="0.37864583333333335" />
-        <entry key="..\:/Users/Asus_Rog/Documents/Android Studio/DashboardPractice/app/src/main/res/drawable/white_background.xml" value="0.1787037037037037" />
-        <entry key="..\:/Users/Asus_Rog/Documents/Android Studio/DashboardPractice/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Asus_Rog/Documents/Android Studio/DashboardPractice/app/src/main/res/drawable/search_edt.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/Asus_Rog/Documents/Android Studio/DashboardPractice/app/src/main/res/drawable/white_background.xml" value="0.33" />
+        <entry key="..\:/Users/Asus_Rog/Documents/Android Studio/DashboardPractice/app/src/main/res/layout/activity_main.xml" value="0.25" />
       </map>
     </option>
   </component>
